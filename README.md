@@ -1,6 +1,5 @@
 
 WebTest: A desktop based quiz application 
-Description:
 A cutting-edge desktop-based quiz application on JAVA, packed with features that will test your knowledge under time constraints. With the 50-50 lifeline option, you can eliminate two incorrect answers, increasing your chances of selecting the correct one. This immersive experience challenges you to think quickly and make informed decisions. Select the correct answer among multiple choice questions, and race against the clock to answer as many questions as possible and achive your best score.
 Enjoy the convenience of offline access, allowing you to study anytime, anywhere. With our desktop quiz application, learning becomes an enjoyable adventure, empowering you to expand your knowledge and reach new heights of academic success.
 
